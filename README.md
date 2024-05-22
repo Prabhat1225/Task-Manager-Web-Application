@@ -77,12 +77,13 @@ You should have a MongoDB database.
 You should have a code editor (preferred: VS Code)
 ## Installation and Setup
 Install all the dependencies
-npm run install-all
+** npm run install-all **
 Create a file named ".env" inside the backend folder. Add data from .env.example file and substitute your credentials there.
 
-Start the application
-npm start
-[Go to http://localhost:3000](http://localhost:3000/)
+# Start the application
+** npm start **
+
+Go To -- > [http://localhost:3000](http://localhost:3000/)
 
 # Backend API
 - POST     /api/auth/signup
