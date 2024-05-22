@@ -13,9 +13,9 @@ API components. Users should be able to register, log in, and manage their tasks
 
 # Features
 # User-side features
-*Signup\
-*Login\
-*Logout\
+* Signup\
+* Login\
+* Logout\
 *Add tasks\
 View tasks\
 Update tasks\
